@@ -1,6 +1,19 @@
-# Thia is my README file for Git Made Easy Repo
+# My New Project
 
-## This course has multiple sections
+This is a simple project to demonstrate how a README file works.
+
+## Getting Started With Git
+
+To get started , clone the repository:
+
+```bash
+
+git clone https://github.com/arpithaoncloud9/learn-git.git
+```
+## How to use this repository
+
+
+
 
 Git Basics
 More Advanced Topics
