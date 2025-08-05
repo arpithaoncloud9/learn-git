@@ -5,3 +5,5 @@
 Git Basics
 More Advanced Topics
 Other Info
+
+## Making a new change
